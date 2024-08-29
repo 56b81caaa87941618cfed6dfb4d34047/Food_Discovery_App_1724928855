@@ -7,7 +7,7 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
                     <h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">
-                        Discover Delicious Dining, Delivered
+                        Discover Delicious Dining, Delivered from the Content
                     </h2>
                 </div>
 
